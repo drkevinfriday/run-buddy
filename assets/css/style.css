@@ -193,6 +193,12 @@ position: relative;
     float: left;
 
 }
+.trainer img #imgright{
+    width: 35%;
+    float: right;
+
+}
+
 
 .trainer-bio{
     padding: 35px;
